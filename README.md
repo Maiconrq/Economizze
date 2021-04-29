@@ -6,9 +6,9 @@
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md)
 ![language](https://img.shields.io/badge/java-only-yellow)
 
-:rocket: Project with OO approaches and Java applications. 
+:rocket: Shopping Cart software developed as a project and with Object Oriented approaches. 
 
-> :rocket: **Projeto com abordagens de OO e aplicações em Java.**
+> :rocket: **Software de Carrinho de Compras desenvolvido como projeto e com abordagens de Orientação a Objeto.**
 
 
 ## Versioning / Versionamento
