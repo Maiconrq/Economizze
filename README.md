@@ -12,9 +12,9 @@
 
 
 ## Versioning / Versionamento
-- This project does not follow any versioning requirements.
+- This project follows the [release](https://github.com/Maiconrq/Economizze/releases) model for versioning.
 
-> **Esse projeto não segue nenhum requisito de versionamento.**
+> **Esse projeto segue o modelo de [releases](https://github.com/Maiconrq/Economizze/releases) para versionamento.**
 
 
 ## Contributing / Contribuindo
