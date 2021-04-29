@@ -10,7 +10,7 @@ import model.Carrinho;
 
 /**
  *
- * @author lucas
+ * @author maicon
  */
 public class CarrinhoControl {
     public static boolean SalvarCarrinho(String nome,String quantiade,String preco){
